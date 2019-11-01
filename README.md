@@ -1,2 +1,1 @@
-# FirstTestCypress
-First Tests with Cypress
+Cypress

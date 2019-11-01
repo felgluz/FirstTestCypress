@@ -7,7 +7,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "cypress run"
+    "start": "cypress run"
   },
   "author": "",
   "license": "ISC",
